@@ -3,8 +3,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
-  color: #354b59;
+  background: #DEB887;
+  color: #8B4513;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
@@ -97,7 +97,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #0c92bf;
+  background: #CD5C5C;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -210,7 +210,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #1e6477;
+  background: #8B4513;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -310,7 +310,7 @@ hr {
   margin-right: 15px;
   float: left;
   border-radius: 3px;
-  background: rgba(238, 228, 218, 0.35); }
+  background: rgba(25, 92, 92, 0.35); }
   .grid-cell:last-child {
     margin-right: 0; }
 
@@ -403,7 +403,7 @@ hr {
     z-index: 10;
     font-family: 'Source Code Pro', Courier;
     font-size: 16px; 
-    color: #354b59;}
+    color: #8B4513;}
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/udacity/2.png');
     background-size: 100%;
@@ -668,7 +668,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #1e6477;
+    background: #8B4513;
     border-radius: 6px;
     width: 280px;
     height: 280px;
@@ -768,7 +768,7 @@ hr {
     margin-right: 10px;
     float: left;
     border-radius: 3px;
-    background: rgba(238, 228, 218, 0.35); }
+    background: rgba(139, 69, 19, 0.35); }
     .grid-cell:last-child {
       margin-right: 0; }
 
@@ -982,7 +982,7 @@ a.learn:hover, a.keep-playing-button:hover, a.learn-low:hover {
 }
 .restart-button, a.retry-button {
   display: inline-block;
-  background: #1e6477;
+  background: #8B4513;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
